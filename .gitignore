@@ -97,3 +97,5 @@ target/
 
 # Ignore Manim media output
 media/
+# Ignore Output from Manim
+output/ 
